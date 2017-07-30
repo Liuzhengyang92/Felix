@@ -1,4 +1,4 @@
-# Felix
+# Node.js upload picture
 Node.js picture upload
 
 Open Eclipse and create a new Javascript project and create project from existing source, then import the folder"project" to Eclipse Neon.
